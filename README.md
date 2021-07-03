@@ -1,3 +1,4 @@
+![SelfRevive](https://user-images.githubusercontent.com/45374546/124339579-af5d2480-db6c-11eb-9a84-28e292b1bd16.png)
 # SelfRevive
 Requires BepInEx
 
