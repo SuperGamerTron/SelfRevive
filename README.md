@@ -2,9 +2,7 @@
 # SelfRevive
 Requires BepInEx
 
-Allows you to revive yourself if the game ends
-
-Used by typing /revive in the chat box while dead with the game over screen showing
+Allows you to revive yourself in singleplayer by clicking the revive button in the game over screen
 
 Singleplayer only, it will not work in multiplayer
 
