@@ -7,5 +7,8 @@ Allows you to revive yourself in singleplayer by clicking the revive button in t
 Singleplayer only, it will not work in multiplayer
 
 # Manual Installation
-
 Extract the archive and put SelfRevive.dll into the BepInEx plugins folder
+
+# Changelog
+### 1.0.1
+Works with Muck version 1.3
